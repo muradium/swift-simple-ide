@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "richtextkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/RichTextKit.git",
+      "state" : {
+        "revision" : "eac37cdc1c1e52523b76ae2b4856494c6f1f5a09",
+        "version" : "0.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
